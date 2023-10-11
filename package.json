@@ -1,0 +1,25 @@
+{
+  "name": "cases-downloader",
+  "version": "0.0.1",
+  "description": "A NodeJS Package to Download all the Cases PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adithyaakrishna"
+  },
+  "author": "Adithya Krishna",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
